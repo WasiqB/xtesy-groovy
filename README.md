@@ -1,7 +1,7 @@
 # xtesy-groovy
 
 [![Build Status](https://travis-ci.org/WasiqB/xtesy-groovy.svg?branch=master)](https://travis-ci.org/WasiqB/xtesy-groovy)
-[![Dependency Status](https://www.versioneye.com/user/projects/559b4af861663400220006b8/badge.svg?style=flat)](https://www.versioneye.com/user/projects/559b4af861663400220006b8)
+[![Dependency Status](https://www.versioneye.com/user/projects/562375c036d0ab0021000b7b/badge.svg?style=flat)](https://www.versioneye.com/user/projects/562375c036d0ab0021000b7b)
 [![codecov.io](http://codecov.io/github/WasiqB/xtesy-groovy/coverage.svg?branch=master)](http://codecov.io/github/WasiqB/xtesy-groovy?branch=master)
 [![Github Issues](http://githubbadges.herokuapp.com/wasiqb/xtesy-groovy/issues.svg)]
 (https://github.com/wasiqb/xtesy-groovy/issues)
