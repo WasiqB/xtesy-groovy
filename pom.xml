@@ -49,7 +49,7 @@
 				<artifactId>gmaven-plugin</artifactId>
 				<version>1.5</version>
 				<configuration>
-					<providerSelection>1.8</providerSelection>
+					<providerSelection>2.4</providerSelection>
 				</configuration>
 				<executions>
 					<execution>
