@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.xtesy.core.ui.selenium.helpers
+package com.xtesy.core.selenium.helpers
 
 /**
  * @author Wasiq B

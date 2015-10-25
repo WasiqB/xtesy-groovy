@@ -13,13 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.xtesy.core.ui.selenium.helpers
+package com.xtesy.core.selenium.helpers
 
 import geb.Browser
 import geb.Page
 import groovy.util.logging.Log4j2
 
-import com.xtesy.core.ui.selenium.interactions.GenericActions
+import com.xtesy.core.selenium.interactions.GenericActions
 
 /**
  * @author Wasiq B

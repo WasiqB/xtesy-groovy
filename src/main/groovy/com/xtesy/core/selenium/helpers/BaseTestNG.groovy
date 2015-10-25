@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.xtesy.core.ui.selenium.helpers
+package com.xtesy.core.selenium.helpers
 
 import geb.testng.GebReportingTest
 import groovy.util.logging.Log4j2
@@ -21,7 +21,7 @@ import groovy.util.logging.Log4j2
 import org.openqa.selenium.Dimension
 import org.testng.annotations.BeforeSuite
 
-import com.xtesy.core.ui.selenium.interactions.GenericActions
+import com.xtesy.core.selenium.interactions.GenericActions
 
 /**
  * @author Wasiq B
